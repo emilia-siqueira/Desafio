@@ -8,4 +8,6 @@ Este é um projeto de exemplo criado para fins de aprendizado e testes no GitHub
 
 ## Autor
 Arquiteta do Universo Ser Supremo
-- Associados
+- Associados autorizados
+
+## Obra Prima
