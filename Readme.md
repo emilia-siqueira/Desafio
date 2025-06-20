@@ -15,5 +15,5 @@ Arquiteta do Universo Ser Supremo
 ## Salvando Alterações no GIT 
 * comando git push
 * comando git pull
-* comando git fatch
+* comando git fetch
   
