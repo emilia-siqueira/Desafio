@@ -11,3 +11,8 @@ Arquiteta do Universo Ser Supremo
 - Associados autorizados
 
 ## Obra Prima
+
+## Salvando Alterações no GIT 
+* comando git push
+* comando git pull
+  
